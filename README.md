@@ -54,8 +54,5 @@ Write a VisibilityFilter reducer (), and test with store methods
 Add New feature:
 -- Set Visibility Filter
 
-
-
-
-
-
+## References:
+- [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
