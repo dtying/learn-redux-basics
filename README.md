@@ -42,8 +42,8 @@ Test Todo Reducer with store methods, getState(), dispatch(), subscribe().
 
 ## Demo04: Todo List Example
 Functions included:
--- Add a todo
--- Toggle a todo
+- Add a todo
+- Toggle a todo
 
 ## Demo05: Set Visiblity Filter
 Write a VisibilityFilter reducer (), and test with store methods
@@ -52,7 +52,7 @@ Write a VisibilityFilter reducer (), and test with store methods
 
 ## Demo07: Update Todo List Example from Demo04
 Add New feature:
--- Set Visibility Filter
+- Set Visibility Filter
 
 ## References:
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
